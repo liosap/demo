@@ -1,8 +1,6 @@
 {
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
+  "Producto": {
+    "titulo": { "string": {"Hola 1"} },
     }
   }
 }
