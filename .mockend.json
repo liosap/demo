@@ -1,6 +1,5 @@
 {
   "Producto": {
-    "titulo": { "string": {"Hola 1"} },
+    "titulo": "Hola 1",
     }
-  }
 }
