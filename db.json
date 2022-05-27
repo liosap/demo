@@ -1,5 +1,5 @@
 {
-
+  "productos": [
     {
       "id": 1,
       "title": "HP 240 G8",
@@ -20,5 +20,5 @@
       "title": "HP EliteBook 840 G8",
       "img": "https://d598hd2wips7r.cloudfront.net/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/3/5/35Y48LT-1_T1641930103.png"
     }
-
+  ]
 }
